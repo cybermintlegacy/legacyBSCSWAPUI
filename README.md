@@ -1,0 +1,2 @@
+# legacyBSCSWAPUI
+Legacy application.
